@@ -3,10 +3,10 @@
 // Cumware Gen 3 \\
 
 Credits:
-[NotBad]: Owner, developer of bee swarm simulator
-[Piekarnik]: Bee Swarm Simulator, Manager Function Liblary
-[CUMMYNIGA69]: Bee Swarm Simulator, Kersher Owner
-[Kaspersky652] BSS Starer lol
+[NotBad]: Owner, developer of bee swarm simulator.
+[Piekarnik]: Bee Swarm Simulator, Manager Function Liblary.
+[CUMMYNIGA69]: Bee Swarm Simulator, Kersher Owner.
+[Kaspersky652] BSS Starer lol.
 
 Cumware is owned, coded developed and managed by NotBad alone. Anyone else who claims to be a developer is an impersonator.
 Cumware is mostly open source apart from some premium functions.
